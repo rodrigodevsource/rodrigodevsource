@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rodrigodevsource
+- 👀 I’m interested in C#, .NET
+- 🌱 I’m currently learning constantly
+- 💞️ I’m looking to collaborate on side projects
